@@ -1,4 +1,9 @@
 # Clase-Reproductor
+# UNEFA Mérida
+# Integrantes: marbeliszambrano, yasmeliguerrero, GepsyO, Euduar, william14maldonado
+# Profesor: javierri
+# Clificación: 
+
 tipo = ["RADIO","CD","USB"]
 def detectar_cambio (B):
 	cont = 0
