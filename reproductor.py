@@ -2,7 +2,7 @@
 # UNEFA Mérida
 # Integrantes: marbeliszambrano, yasmeliguerrero, GepsyO, Euduar, william14maldonado
 # Profesor: javierri
-# Clificación: 
+# Calificación: 
 
 tipo = ["RADIO","CD","USB"]
 def detectar_cambio (B):
